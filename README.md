@@ -2,7 +2,9 @@
 A sms bomber that will continuously send text messages to the victim
 
 Python 3.x required
+
 install the requirements
+
 pip install -r requirements.txt
 
 run 
